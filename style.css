@@ -1,0 +1,133 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+}
+
+header {
+  background-color: rgb(30, 40, 50);
+}
+
+header img {
+  margin-top: 4px;
+  width: 150px;
+  margin-bottom: 0;
+}
+.banner {
+  margin-left: 2rem;
+  height: 55px;
+}
+.bannerLogo {
+  object-fit: cover;
+}
+
+ul {
+  width: 100%;
+
+  background-color: rgb(43, 58, 72);
+}
+.title h1,
+p {
+  color: white;
+  font-weight: bold;
+}
+.title {
+  color: white;
+  font-weight: bold;
+}
+ul,
+li {
+  color: white;
+  font-weight: bold;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+#Shop {
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  background-color: rgb(255, 166, 0);
+}
+
+.Holiday {
+  text-align: center;
+  margin-top: 20px;
+  background-image: url(bg-image.png);
+  height: 150px;
+}
+
+.gift {
+  color: black;
+  display: inline-block;
+}
+
+.serieimmagini {
+  display: flex;
+  vertical-align: center;
+}
+.container {
+  margin: 0 auto;
+  width: 90%;
+  box-shadow: 7px 7px 7px x gainsboro;
+}
+.spn {
+  overflow: hidden;
+  margin-right: 20px;
+}
+.gift {
+  z-index: 100;
+  font-weight: bolder;
+}
+.gift a {
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.image {
+  border-radius: 17px;
+  box-shadow: 3px 3px 3px gainsboro;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.spn {
+  width: 22, 5%;
+  height: 100%;
+}
+.bannerimage {
+  margin-bottom: 2rem;
+}
+.cont2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  overflow: hidden;
+  max-height: 20rem;
+  margin-bottom: 2rem;
+}
+.cont3 {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  background-color: rgb(30, 40, 50);
+}
+.cont3 img {
+  width: 150px;
+}
+
+.back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: rgb(43, 58, 72);
+}
+
+.back a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
